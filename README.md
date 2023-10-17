@@ -3,10 +3,16 @@ AIM: DHT11 Humidity Temperature Monitor on thingspeak  with  NODEMCU
 Components required;
 
 1.NodeMCU
+
 2.DHT11 sensor
+
 3.Thingspeak cloud server
+
 4.Bread board
-5.Jumper wires 
+
+
+5.Jumper wires
+
 circuit diagram:
 
 
